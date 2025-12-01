@@ -45,8 +45,15 @@ MySQL 5.7 أو أعلى
 إعداد قاعدة البيانات
 
 
-# هذا الكود قابل للنسخ
-git clone https://github.com/username/repo.git
-cd repo
-npm install
+<button class="copy-btn" onclick="copyToClipboard('gestion_stock/\n├── 📁 assets/\n├── 📁 config/\n├── 📁 database/\n├── 📁 includes/\n├── 📁 modules/\n│   ├── 📁 dashboard/\n│   ├── 📁 products/\n│   ├── 📁 suppliers/\n│   ├── 📁 sales/\n│   └── 📁 reports/\n├── 📁 vendor/\n└── 📄 index.php')">📋 نسخ هيكل المجلدات</button>
 
+## 🚀 **أوامر التثبيت السريعة**
+
+### **1. نسخ المشروع من GitHub**
+
+```bash
+# نسخ المستودع
+git clone https://github.com/username/gestion-stock.git
+
+# الانتقال إلى المجلد
+cd gestion-stock
